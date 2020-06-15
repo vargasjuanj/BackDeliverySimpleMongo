@@ -1,0 +1,3 @@
+Para crear un articulo, tener alguna categoria y unidad de medida creadas, para poder relacionarlo con este.
+
+En el front seteandole el id de medida y categoria a los objetos de articulo se persiste.
